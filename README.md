@@ -1,5 +1,5 @@
 Chinese version of the README -> please [click here](./README_CN.md)
-
+123
 1. DobotLink is an intermediate service layer that communicates between hardware devices and the host computer (DobotLab or other development environments). All external software controls Dobot's hardware devices through this service layer, including magician, magician lite, and magician Go. DobotLink not only includes API dynamic library, but also supports device firmware update, device verification and other functions.
 
 2. DobotLink is developed using Qt5, and the related modules using Qt are as follows:
