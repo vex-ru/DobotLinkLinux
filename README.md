@@ -17,6 +17,12 @@ ENGLISH version of the README -> please [click here](./README_EN.md)
 
 ---
 
+> ⚡️ **Установите DobotLink за 1 клик в терминале (консоли) Linux:**  
+
+```bash
+curl -L https://github.com/vex-ru/DobotLinkLinux/install-dobotlink.sh | bash
+```
+
 ## 📦 Требования
 
 - **ОС**: Linux (рекомендуется Ubuntu 22.04 / Zorin OS)
