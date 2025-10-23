@@ -20,7 +20,7 @@ ENGLISH version of the README -> please [click here](./README_EN.md)
 > ⚡️ **Установите DobotLink за 1 клик в терминале (консоли) Linux:**  
 
 ```bash
-curl -L https://github.com/vex-ru/DobotLinkLinux/install-dobotlink.sh | bash
+curl -L https://raw.githubusercontent.com/vex-ru/DobotLinkLinux/refs/heads/main/install-dobotlink.sh | bash
 ```
 
 ## 📦 Требования
