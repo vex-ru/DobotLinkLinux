@@ -6,12 +6,12 @@
     <message>
         <location filename="../Views/DAboutUsDialog.ui" line="26"/>
         <source>About</source>
-        <translation>关于</translation>
+        <translation>О приложении</translation>
     </message>
     <message>
         <location filename="../Views/DAboutUsDialog.ui" line="68"/>
         <source>Author:</source>
-        <translation>作者：</translation>
+        <translation>Автор: </translation>
     </message>
     <message>
         <location filename="../Views/DAboutUsDialog.ui" line="139"/>
@@ -21,12 +21,12 @@
     <message>
         <location filename="../Views/DAboutUsDialog.ui" line="55"/>
         <source>Home Page:</source>
-        <translation>主页：</translation>
+        <translation>Домой：</translation>
     </message>
     <message>
         <location filename="../Views/DAboutUsDialog.ui" line="117"/>
         <source>Release:</source>
-        <translation>发布：</translation>
+        <translation>Выпуск：</translation>
     </message>
 </context>
 <context>
@@ -34,17 +34,17 @@
     <message>
         <location filename="../Views/DArduinoTestForm.ui" line="26"/>
         <source>ArduinoTest</source>
-        <translation>Arduino上传工具</translation>
+        <translation>ArduinoTest</translation>
     </message>
     <message>
         <location filename="../Views/DArduinoTestForm.ui" line="44"/>
         <source>WorkStation</source>
-        <translation>工作站</translation>
+        <translation>WorkStation</translation>
     </message>
     <message>
         <location filename="../Views/DArduinoTestForm.ui" line="56"/>
         <source>address:</source>
-        <translation>地址：</translation>
+        <translation>address:</translation>
     </message>
     <message>
         <location filename="../Views/DArduinoTestForm.ui" line="106"/>
@@ -1251,52 +1251,52 @@
     <message>
         <location filename="../DobotLinkMain.ui" line="292"/>
         <source>Tools</source>
-        <translation>工具</translation>
+        <translation>Утилиты</translation>
     </message>
     <message>
         <location filename="../DobotLinkMain.ui" line="313"/>
         <source>Plugins</source>
-        <translation>插件</translation>
+        <translation>Плагины</translation>
     </message>
     <message>
         <location filename="../DobotLinkMain.ui" line="339"/>
         <source>SerialPort</source>
-        <translation>串口调试助手</translation>
+        <translation>SerialPort</translation>
     </message>
     <message>
         <location filename="../DobotLinkMain.cpp" line="178"/>
         <location filename="../DobotLinkMain.cpp" line="196"/>
         <source>Show on top</source>
-        <translation>总在最前</translation>
+        <translation>Всегда наверху</translation>
     </message>
     <message>
         <location filename="../DobotLinkMain.cpp" line="179"/>
         <location filename="../DobotLinkMain.cpp" line="197"/>
         <source>Log</source>
-        <translation>日志</translation>
+        <translation>Логи</translation>
     </message>
     <message>
         <location filename="../DobotLinkMain.cpp" line="180"/>
         <location filename="../DobotLinkMain.cpp" line="198"/>
         <source>Start Log</source>
-        <translation>开始记录</translation>
+        <translation>Начать логирование</translation>
     </message>
     <message>
         <location filename="../DobotLinkMain.cpp" line="181"/>
         <location filename="../DobotLinkMain.cpp" line="199"/>
         <source>Open Log File</source>
-        <translation>打开日志</translation>
+        <translation>Открыть логи</translation>
     </message>
     <message>
         <location filename="../DobotLinkMain.cpp" line="182"/>
         <location filename="../DobotLinkMain.cpp" line="200"/>
         <source>delete log</source>
-        <translation>删除日志</translation>
+        <translation>Удалить логи</translation>
     </message>
     <message>
         <location filename="../DobotLinkMain.cpp" line="366"/>
         <source>Delete all log files?</source>
-        <translation>删除所有日志?</translation>
+        <translation>Удалить все логи?</translation>
     </message>
     <message>
         <location filename="../DobotLinkMain.cpp" line="183"/>
@@ -1308,25 +1308,25 @@
         <location filename="../DobotLinkMain.cpp" line="184"/>
         <location filename="../DobotLinkMain.cpp" line="202"/>
         <source>Help</source>
-        <translation>帮助</translation>
+        <translation>Помощь</translation>
     </message>
     <message>
         <location filename="../DobotLinkMain.cpp" line="185"/>
         <location filename="../DobotLinkMain.cpp" line="203"/>
         <source>check upgrade</source>
-        <translation>检查更新</translation>
+        <translation>Проверить обновление</translation>
     </message>
     <message>
         <location filename="../DobotLinkMain.cpp" line="186"/>
         <location filename="../DobotLinkMain.cpp" line="204"/>
         <source>About us</source>
-        <translation>关于我们</translation>
+        <translation>Инфо</translation>
     </message>
     <message>
         <location filename="../DobotLinkMain.cpp" line="187"/>
         <location filename="../DobotLinkMain.cpp" line="205"/>
         <source>Exit</source>
-        <translation>退出</translation>
+        <translation>Выход</translation>
     </message>
     <message>
         <location filename="../DobotLinkMain.cpp" line="278"/>
@@ -1356,18 +1356,18 @@
         <location filename="../DobotLinkMain.cpp" line="176"/>
         <location filename="../DobotLinkMain.cpp" line="194"/>
         <source>manager interface</source>
-        <translation>开发者界面</translation>
+        <translation>Настройки интерфейса</translation>
     </message>
     <message>
         <location filename="../DobotLinkMain.cpp" line="177"/>
         <location filename="../DobotLinkMain.cpp" line="195"/>
         <source>main interface</source>
-        <translation>主界面</translation>
+        <translation>Главный интерфейс</translation>
     </message>
     <message>
         <location filename="../DobotLinkMain.cpp" line="586"/>
         <source>Unload the plugin?</source>
-        <translation>卸载此插件？</translation>
+        <translation>Загрузить плагин?</translation>
     </message>
     <message>
         <location filename="../DobotLinkMain.cpp" line="588"/>
